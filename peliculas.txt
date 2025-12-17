@@ -1,4 +1,9 @@
 
+- Harry Potter
+- Matrix
+- El señor de los anillos
+=======
+
 Barbie
 El rey leon
 Blancanieves
@@ -40,6 +45,7 @@ El chico y la garza
 Pulp Fiction
 Se7en
 Gone Girl
+
 
 
 
